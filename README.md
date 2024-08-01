@@ -12,7 +12,7 @@ image segmentation tasks. This method is elaborated on the paper [Medical SAM 2:
 **We will release the code for both 2D and 3D medical images in the following weeks.**
 ## 🔥 A Quick Overview 
  <img width="880" height="380" src="https://github.com/jiayuanz3/medsam2/blob/main/framework.png">
-
+ 
 ## 🩻 3D Abdomen Segmentation Visualisation
  <img width="480" height="480" src="https://github.com/jiayuanz3/medsam2/blob/main/example.gif">
 
